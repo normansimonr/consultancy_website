@@ -9,13 +9,14 @@
 body {
   background-color: var(--main-bg-color);
   color: var(--main-text-color);
-  font-family: 'Helvetica', sans-serif;
+  font-family: 'Source Sans 3', sans-serif;
   font-size: 1.0em;
+  font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: var(--main-text-color);
-  font-family: 'Spectral', serif;
+  font-family: 'Libre Caslon Display', serif;
 }
 
 a {
