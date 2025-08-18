@@ -1,0 +1,14 @@
+---
+title: "Subscribe to my newsletter"
+---
+
+<p>I write about data science, consulting, and other things I find interesting. Subscribe to get new posts by email.</p>
+
+<form>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Email address</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+    <small id="emailHelp" class="form-text text-muted">I'll never share your email with anyone else.</small>
+  </div>
+  <button type="submit" class="btn btn-primary">Subscribe</button>
+</form>

@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Simon's Consultancy"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: posts.qmd
+        text: Essays
+      - href: my-favourite-books.qmd
+        text: My Favourite Books
+      - href: about.qmd
+        text: About
+      - href: subscribe.qmd
+        text: Subscribe
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    lang: en-GB
