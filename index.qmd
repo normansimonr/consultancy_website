@@ -5,3 +5,5 @@ title: "Welcome to my Consultancy"
 This is the home page of my consultancy website. 
 
 Here you can find my thoughts on data science, consulting, and other topics I find interesting. You can also find a list of my favourite books and subscribe to my newsletter.
+
+For inspiration, see [Archpsych](https://www.archpsych.co.uk/).

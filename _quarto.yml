@@ -19,7 +19,7 @@ website:
 
 format:
   html:
-    theme: slate
+    theme: cosmo
     css: styles.css
     lang: en-GB
     include-in-header: _includes/head.html
