@@ -6,12 +6,19 @@
   --accent-color: #978f7d;
 }
 
+html {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   background-color: var(--main-bg-color);
   color: var(--main-text-color);
   font-family: 'Source Sans 3', sans-serif;
   font-size: 1.0em;
   font-weight: 300;
+  margin: 0;
+  padding: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -107,4 +114,9 @@ a:hover {
 
 .featured-content a:hover {
   background-color: var(--main-text-color);
+}
+
+#quarto-sidebar {
+  background-color: transparent;
+  z-index: 1000;
 }
