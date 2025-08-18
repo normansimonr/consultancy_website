@@ -2,6 +2,16 @@
 title: "Welcome to my Consultancy"
 ---
 
+```{=html}
+<div class="featured-section" style="background-image: url('../images/featured_background.jpg');">
+  <div class="featured-content">
+    <h1>Welcome To My Blog</h1>
+    <p>This is the first post in a Quarto blog. Welcome!</p>
+    <a href="posts/welcome/index.qmd">Read More</a>
+  </div>
+</div>
+```
+
 This is the home page of my consultancy website. 
 
 Here you can find my thoughts on data science, consulting, and other topics I find interesting. You can also find a list of my favourite books and subscribe to my newsletter.
