@@ -3,9 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "Simon's Consultancy"
-  navbar:
-    left:
+  title: "Cubic reasoning"
+  sidebar:
+    logo: images/Logo.png
+    contents:
       - href: index.qmd
         text: Home
       - href: posts.qmd

@@ -3,3 +3,75 @@ title: "My Favourite Books"
 ---
 
 This is a list of my favourite books.
+
+---
+
+## Poor Economics, by Esther Duflo and Abhijit Banerjee
+
+<div style="float: left; margin-right: 20px; margin-bottom: 10px;">
+<img src="images/poor_economics.jpg" alt="Book cover of Poor Economics" width="150">
+</div>
+
+*Poor Economics* offers a groundbreaking perspective on the fight against global poverty. Nobel laureates Esther Duflo and Abhijit Banerjee move past sweeping generalisations and instead rely on randomised controlled trials to uncover the lived realities of the poor. The book explores the everyday decisions made by people surviving on very little, examining choices around nutrition, health, education, and savings. What may at first appear to be irrational behaviours often turn out to be entirely logical once viewed through the lens of scarcity, where access to information, insurance, and reliable institutions is limited. With a blend of careful evidence and vivid anecdotes, Duflo and Banerjee make a compelling case for a more nuanced, human-centred approach to poverty alleviation.
+
+<div style="clear: both;"></div>
+
+---
+
+## How Big Things Get Done, by Bent Flyvbjerg and Dan Gardner
+
+<div style="float: left; margin-right: 20px; margin-bottom: 10px;">
+<img src="images/how_big_things_get_done.jpg" alt="Book cover of How Big Things Get Done" width="150">
+</div>
+
+In *How Big Things Get Done*, Bent Flyvbjerg and Dan Gardner investigate why so many large-scale projects, from skyscrapers to business ventures, so often run over budget, over schedule, and under expectations. Drawing on a vast dataset of thousands of projects worldwide, they show that successful outcomes are not about luck but about strategy, foresight, and disciplined execution. Central to their framework are ideas such as “think slow, act fast” and the value of modular design in managing complexity and reducing risk. This book is both practical and profound: a toolkit for anyone engaged in bringing ambitious visions to life.
+
+<div style="clear: both;"></div>
+
+---
+
+## Initiation à la mathématique d'aujourd'hui (The New Mathematics), by Irving Adler
+
+<div style="float: left; margin-right: 20px; margin-bottom: 10px;">
+<img src="images/mathematique_aujourdhui.jpg" alt="Book cover of Initiation à la mathématique d'aujourd'hui" width="150">
+</div>
+
+Irving Adler’s *Initiation à la mathématique d'aujourd'hui* (*The New Mathematics*) offers an accessible doorway into modern mathematics. Written in the mid-twentieth century, the book set out to make contemporary mathematical ideas approachable for a broad audience at a time when they were rarely taught outside specialised circles. Adler presents abstract concepts with clarity and enthusiasm, opening a window onto the principles that shape today’s mathematical landscape. It remains a thoughtful resource for anyone curious about the beauty and logic of modern maths.
+
+<div style="clear: both;"></div>
+
+---
+
+## The Tyranny of Metrics, by Jerry Muller
+
+<div style="float: left; margin-right: 20px; margin-bottom: 10px;">
+<img src="images/tyranny_metrics.jpg" alt="Book cover of The Tyranny of Metrics" width="150">
+</div>
+
+Jerry Muller’s *The Tyranny of Metrics* is a sharp and timely critique of our culture’s fixation on measurement. While acknowledging that metrics have their place, Muller warns against what he calls “metric fixation”: the belief that numbers alone can capture performance or success. He illustrates how this obsession distorts priorities in fields as diverse as education, healthcare, policing, and business, leading to unintended consequences such as “teaching to the test” or manipulating statistics. Muller argues persuasively for a more balanced approach, where data informs but does not replace professional judgement, context, and experience.
+
+<div style="clear: both;"></div>
+
+---
+
+## The Dictator's Handbook, by Alastair Smith and Bruce Bueno de Mesquita
+
+<div style="float: left; margin-right: 20px; margin-bottom: 10px;">
+<img src="images/dictators_handbook.jpg" alt="Book cover of The Dictator's Handbook" width="150">
+</div>
+
+*The Dictator’s Handbook* offers a bracingly cynical but illuminating view of politics. Alastair Smith and Bruce Bueno de Mesquita argue that whether leaders rule in democracies or dictatorships, their fundamental goal is the same: to gain and keep power. At the heart of their analysis is the “selectorate theory”, which emphasises that survival in power depends on satisfying a key coalition of supporters. The methods differ, public goods in democracies and private rewards in autocracies, but the logic is universal. By reframing politics in terms of incentives and loyalty, the book provides an unsettling yet deeply clarifying lens through which to interpret political behaviour.
+
+<div style="clear: both;"></div>
+
+---
+
+## Design for How People Learn, by Julie Dirksen
+
+<div style="float: left; margin-right: 20px; margin-bottom: 10px;">
+<img src="images/design_people_learn.jpg" alt="Book cover of Design for How People Learn" width="150">
+</div>
+
+Julie Dirksen’s *Design for How People Learn* is a refreshing, practical guide for anyone who creates learning experiences, whether teachers, trainers, or instructional designers. True to its own philosophy, the book is engaging, accessible, and memorable. Dirksen weaves insights from cognitive psychology with design strategies, using stories, visuals, and real-world examples to illustrate her points. Central to her approach is a simple but powerful idea: effective learning begins with understanding the learner’s motivations and needs. The result is both a practical handbook and an enjoyable read, making it one of the most useful resources in the field of learning and development.
+
+<div style="clear: both;"></div>

@@ -2,8 +2,8 @@
 
 :root {
   --main-bg-color: #FFFFFF;
-  --main-text-color: #5B4636;
-  --accent-color: #A98C78;
+  --main-text-color: #313131;
+  --accent-color: #978f7d;
 }
 
 body {
@@ -16,7 +16,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: var(--main-text-color);
-  font-family: 'Libre Caslon Display', serif;
+  font-family: 'Roboto Serif', serif;
 }
 
 a {
