@@ -2,7 +2,7 @@
 
 :root {
   --main-bg-color: #FFFFFF;
-  --secondary-bg-color: #f0eded;
+  --secondary-bg-color: #fafafa;
   --main-text-color: #313131;
   --accent-color: #978f7d;
 }
@@ -37,8 +37,7 @@ a:hover {
 
 
 .navbar {
-  background-color: var(--secondary-bg-color);
-  border-bottom: 1px solid var(--accent-color);
+  background-color: transparent;
 }
 
 /* Hide navbar title */
@@ -89,7 +88,7 @@ a:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.15); /* Dark overlay */
+  background-color: rgba(255, 255, 255, 0.15); /* Dark overlay */
   z-index: 1;
 }
 
@@ -125,6 +124,10 @@ a:hover {
 }
 
 #quarto-sidebar {
-  background-color: var(--secondary-bg-color);
+  background-color: transparent;
   z-index: 1000;
+}
+
+.sidebar-navigation {
+  border-right: none !important;
 }

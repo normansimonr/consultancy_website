@@ -9,8 +9,10 @@ website:
   navbar:
     search: true
     collapse: true
+    pinned: true
   sidebar:
     style: docked
+    border: false
     logo: images/Logo.png
     search: false
     contents:

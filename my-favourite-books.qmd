@@ -6,7 +6,7 @@ This is a list of my favourite books.
 
 ---
 
-## Poor Economics, by Esther Duflo and Abhijit Banerjee
+### Poor Economics, by Esther Duflo and Abhijit Banerjee
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px;">
 <img src="images/poor_economics.jpg" alt="Book cover of Poor Economics" width="150">
@@ -18,7 +18,7 @@ This is a list of my favourite books.
 
 ---
 
-## How Big Things Get Done, by Bent Flyvbjerg and Dan Gardner
+### How Big Things Get Done, by Bent Flyvbjerg and Dan Gardner
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px;">
 <img src="images/how_big_things_get_done.jpg" alt="Book cover of How Big Things Get Done" width="150">
@@ -30,7 +30,7 @@ In *How Big Things Get Done*, Bent Flyvbjerg and Dan Gardner investigate why so 
 
 ---
 
-## Initiation à la mathématique d'aujourd'hui (The New Mathematics), by Irving Adler
+### Initiation à la mathématique d'aujourd'hui (The New Mathematics), by Irving Adler
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px;">
 <img src="images/mathematique_aujourdhui.jpg" alt="Book cover of Initiation à la mathématique d'aujourd'hui" width="150">
@@ -42,7 +42,7 @@ Irving Adler’s *Initiation à la mathématique d'aujourd'hui* (*The New Mathem
 
 ---
 
-## The Tyranny of Metrics, by Jerry Muller
+### The Tyranny of Metrics, by Jerry Muller
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px;">
 <img src="images/tyranny_metrics.jpg" alt="Book cover of The Tyranny of Metrics" width="150">
@@ -54,7 +54,7 @@ Jerry Muller’s *The Tyranny of Metrics* is a sharp and timely critique of our 
 
 ---
 
-## The Dictator's Handbook, by Alastair Smith and Bruce Bueno de Mesquita
+### The Dictator's Handbook, by Alastair Smith and Bruce Bueno de Mesquita
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px;">
 <img src="images/dictators_handbook.jpg" alt="Book cover of The Dictator's Handbook" width="150">
@@ -66,7 +66,7 @@ Jerry Muller’s *The Tyranny of Metrics* is a sharp and timely critique of our 
 
 ---
 
-## Design for How People Learn, by Julie Dirksen
+### Design for How People Learn, by Julie Dirksen
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px;">
 <img src="images/design_people_learn.jpg" alt="Book cover of Design for How People Learn" width="150">
