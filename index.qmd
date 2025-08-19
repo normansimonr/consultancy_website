@@ -1,9 +1,10 @@
 ---
-title: "Welcome to my Consultancy"
+title: "&nbsp;"
+title-block-style: none
 ---
 
 ```{=html}
-<div class="featured-section" style="background-image: url('../images/featured_background.jpg');">
+<div class="featured-section" style="background-image: url('images/featured_background.jpg');">
   <div class="featured-content">
     <h1>Welcome To My Blog</h1>
     <p>This is the first post in a Quarto blog. Welcome!</p>

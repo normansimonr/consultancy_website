@@ -1,11 +1,17 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - images/
 
 website:
   title: "Cubic reasoning"
+  navbar:
+    search: true
+    collapse: true
   sidebar:
     logo: images/Logo.png
+    search: false
     contents:
       - href: index.qmd
         text: Home
