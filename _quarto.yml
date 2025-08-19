@@ -9,8 +9,8 @@ website:
   navbar:
     search: true
     collapse: true
-    background: "#e0e0e0"
   sidebar:
+    style: docked
     logo: images/Logo.png
     search: false
     contents:

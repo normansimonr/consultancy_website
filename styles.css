@@ -2,6 +2,7 @@
 
 :root {
   --main-bg-color: #FFFFFF;
+  --secondary-bg-color: #f0eded;
   --main-text-color: #313131;
   --accent-color: #978f7d;
 }
@@ -36,7 +37,7 @@ a:hover {
 
 
 .navbar {
-  background-color: var(--main-bg-color);
+  background-color: var(--secondary-bg-color);
   border-bottom: 1px solid var(--accent-color);
 }
 
@@ -124,6 +125,6 @@ a:hover {
 }
 
 #quarto-sidebar {
-  background-color: transparent;
+  background-color: var(--secondary-bg-color);
   z-index: 1000;
 }
