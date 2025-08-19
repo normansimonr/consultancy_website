@@ -9,6 +9,7 @@ website:
   navbar:
     search: true
     collapse: true
+    background: "#e0e0e0"
   sidebar:
     logo: images/Logo.png
     search: false
