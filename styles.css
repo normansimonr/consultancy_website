@@ -1,5 +1,10 @@
 /* css styles */
 
+blockquote, .blockquote {
+  color: var(--main-text-color);
+}
+
+
 :root {
   --main-bg-color: #FFFFFF;
   --secondary-bg-color: #fafafa;
@@ -17,7 +22,7 @@ body {
   color: var(--main-text-color);
   font-family: 'Source Sans 3', sans-serif;
   font-size: 1.0em;
-  font-weight: 370;
+  font-weight: 400;
   margin: 0;
   padding: 0;
 }
