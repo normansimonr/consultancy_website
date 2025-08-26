@@ -12,4 +12,6 @@ format:
     toc: true
     toc-location: right
     #grid:
-    #  body-width: 500px
+      #sidebar-width: 40%
+      #margin-width: 40%
+      #body-width: 500px

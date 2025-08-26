@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Norman Simon Rodriguez"
 image: images/profile.jpeg
 about:
   template: trestles
@@ -10,10 +10,8 @@ about:
 
 ---
 
-My name is Norman Rodriguez, I like thinking.
+My name is Norman, and I like thinking.
 
-I've never been very good at staying in one lane, always zigzagging through economics, politics, language, technology, philosophy, mathematics, music, graphic design... anywhere there’s an intriguing puzzle. This blog is where some of that restlessness ends up on the page.
-
-Think of it less as a diary and more as a cabinet of curiosities: essays, observations, and thought experiments that test out new angles on familiar and unfamiliar questions.
+I've never been very good at staying in one lane, always zigzagging through economics, politics, language, technology, philosophy, mathematics, music, graphic design... This blog is where some of that restlessness ends up on the page.
 
 If you like ideas that wander a little off the beaten track, you may feel at home here.

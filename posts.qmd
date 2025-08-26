@@ -8,4 +8,11 @@ listing:
   sort-ui: false
   filter-ui: false
 page-layout: full
+format:
+  html:
+    grid:
+        sidebar-width: 600px
+        body-width: 800px
+        margin-width: 600px        
+        gutter-width: 1.5em
 ---

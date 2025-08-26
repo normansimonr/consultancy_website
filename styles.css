@@ -27,7 +27,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: var(--main-text-color);
-  font-family: 'Petrona', serif;
+  font-family: 'Spectral', serif;
 }
 
 a {
@@ -99,4 +99,47 @@ a:hover {
   transform: translateX(-50%);
   display: flex;
   align-items: center;
+}
+
+
+
+/* POST LISTING */
+
+.listing-category {
+  font-family: 'Zain', sans-serif;
+  font-size: 1.0em !important;
+}
+
+.listing-author {
+  font-family: 'Zain', sans-serif;
+  font-size: 1.2em !important;
+}
+
+.listing-date {
+  font-family: 'Zain', sans-serif;
+  font-size: 1.2em !important;
+}
+
+
+/* POST TITLE BLOCK IN ACTUAL POST */
+
+.description {
+  font-family: 'Zain', sans-serif;
+  font-style: italic;
+  font-size: 1.4em !important;
+}
+
+.quarto-category {
+  font-family: 'Zain', sans-serif;
+  font-size: 1.0em !important;
+}
+
+.quarto-title-meta-contents {
+  font-family: 'Zain', sans-serif;
+  font-size: 1.1em !important;
+}
+
+.quarto-title-meta-heading {
+  font-family: 'Zain', sans-serif;
+  font-size: 1.1em !important;
 }

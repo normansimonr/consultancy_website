@@ -34,7 +34,9 @@ format:
     theme: cosmo
     css: styles.css
     grid:
-        sidebar-width: 30%
-    #    margin-width: 30%
+        sidebar-width: 750px
+        body-width: 450px
+        margin-width: 750px        
+        gutter-width: 3.5em
     lang: en-GB
     include-in-header: _includes/head.html
