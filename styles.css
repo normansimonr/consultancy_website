@@ -1,5 +1,3 @@
-/* css styles */
-
 blockquote, .blockquote {
   color: var(--main-text-color);
 }
@@ -20,8 +18,8 @@ html {
 body {
   background-color: var(--main-bg-color);
   color: var(--main-text-color);
-  font-family: 'Source Sans 3', sans-serif;
-  font-size: 1.0em;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9em;
   font-weight: 400;
   margin: 0;
   padding: 0;
@@ -40,20 +38,6 @@ a:hover {
   color: var(--main-text-color);
 }
 
-
-.navbar {
-  background-color: transparent;
-}
-
-/* Hide navbar title */
-.navbar-brand {
-  display: none !important;
-}
-
-
-.navbar-light .navbar-nav .nav-link {
-    color: var(--main-text-color);
-}
 
 .btn-primary {
     background-color: var(--accent-color);
@@ -97,12 +81,16 @@ a:hover {
   z-index: 1;
 }
 
-
-#quarto-sidebar {
-  background-color: transparent;
-  z-index: 1000;
+.navbar-brand {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
-.sidebar-navigation {
-  border-right: none !important;
+.navbar {
+  height: 20%;
+}
+
+.navbar-logo {
+  max-height: 100%;
 }

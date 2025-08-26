@@ -11,5 +11,5 @@ format:
   html:
     toc: true
     toc-location: right
-    grid:
-      body-width: 500px
+    #grid:
+    #  body-width: 500px

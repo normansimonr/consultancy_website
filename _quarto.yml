@@ -6,15 +6,9 @@ project:
 
 website:
   title: "Cubic reasoning"
-  navbar:
-    search: true
-    collapse: true
-    pinned: true
   sidebar:
-    style: docked
+    style: "docked"
     border: false
-    logo: images/Logo.png
-    search: false
     contents:
       - href: index.qmd
         text: Home
@@ -26,10 +20,21 @@ website:
         text: About
       - href: subscribe.qmd
         text: Subscribe
+  navbar:
+    style: docked
+    pinned: true
+    border: false
+    logo: images/Logo.png
+    search: true
+    title: false
+      
 
 format:
   html:
     theme: cosmo
     css: styles.css
+    grid:
+        sidebar-width: 30%
+    #    margin-width: 30%
     lang: en-GB
     include-in-header: _includes/head.html
