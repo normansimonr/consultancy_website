@@ -9,5 +9,7 @@ title-block-banner: false
 
 format:
   html:
+    toc: true
+    toc-location: right
     grid:
       body-width: 500px
