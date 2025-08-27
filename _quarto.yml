@@ -20,8 +20,8 @@ website:
         text: My Favourite Books
       - href: about.qmd
         text: About
-      - href: subscribe.qmd
-        text: Subscribe
+      #- href: subscribe.qmd
+      #  text: Subscribe
   navbar:
     style: docked
     pinned: true
