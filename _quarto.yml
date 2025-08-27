@@ -6,6 +6,8 @@ project:
 
 website:
   title: "Cubic reasoning"
+  site-url: https://www.myblogexample.io
+  description: "Thoughtful essays"
   sidebar:
     style: "docked"
     border: false
@@ -27,7 +29,13 @@ website:
     logo: images/Logo.png
     search: true
     title: false
-      
+  open-graph: true
+  page-footer:
+    center:
+      - text: "© Norman Simon Rodriguez"
+      - icon: linkedin
+        aria-label: linkedin
+        href: https://www.linkedin.com/in/norman-r/
 
 format:
   html:
