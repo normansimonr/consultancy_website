@@ -1,7 +1,4 @@
-blockquote, .blockquote {
-  color: var(--main-text-color);
-}
-
+/* COLOURS */
 
 :root {
   --main-bg-color: #FFFFFF;
@@ -15,6 +12,8 @@ html {
   padding: 0;
 }
 
+/* TEXT */
+
 body {
   background-color: var(--main-bg-color);
   color: var(--main-text-color);
@@ -25,10 +24,18 @@ body {
   padding: 0;
 }
 
+blockquote, .blockquote {
+  color: var(--main-text-color);
+}
+
+/* HEADINGS */
+
 h1, h2, h3, h4, h5, h6 {
   color: var(--main-text-color);
   font-family: 'Spectral', serif;
 }
+
+/* LINKS */
 
 a {
   color: var(--accent-color);
@@ -38,6 +45,8 @@ a:hover {
   color: var(--main-text-color);
 }
 
+
+/* BUTTONS */
 
 .btn-primary {
     background-color: var(--accent-color);
@@ -49,15 +58,14 @@ a:hover {
     border-color: var(--main-text-color);
 }
 
+/* FOOTER */
 
 .footer {
   background-color: var(--main-bg-color);
-  padding: 20px 0;
-  text-align: center;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
+
 }
+
+/* HOME PAGE IMAGE */
 
 .featured-section {
   background-size: cover;

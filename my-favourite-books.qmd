@@ -2,7 +2,7 @@
 title: "My Favourite Books"
 ---
 
-This is a list of my favourite books.
+A selection of some of my favourite books.
 
 ---
 
@@ -30,13 +30,13 @@ In *How Big Things Get Done*, Bent Flyvbjerg and Dan Gardner investigate why so 
 
 ---
 
-### Initiation à la mathématique d'aujourd'hui (The New Mathematics), by Irving Adler
+### *Initiation à la mathématique d'aujourd'hui*, by Irving Adler
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px;">
 <img src="images/mathematique_aujourdhui.jpg" alt="Book cover of Initiation à la mathématique d'aujourd'hui" width="150">
 </div>
 
-Irving Adler’s *Initiation à la mathématique d'aujourd'hui* (*The New Mathematics*) offers an accessible doorway into modern mathematics. Written in the mid-twentieth century, the book set out to make contemporary mathematical ideas approachable for a broad audience at a time when they were rarely taught outside specialised circles. Adler presents abstract concepts with clarity and enthusiasm, opening a window onto the principles that shape today’s mathematical landscape. It remains a thoughtful resource for anyone curious about the beauty and logic of modern maths.
+Irving Adler’s *Initiation à la mathématique d'aujourd'hui* (originally *The New Mathematics*) offers an accessible doorway into modern mathematics. Written in the mid-twentieth century, the book set out to make contemporary mathematical ideas approachable for a broad audience at a time when they were rarely taught outside specialised circles. Adler presents abstract concepts with clarity and enthusiasm, opening a window onto the principles that shape today’s mathematical landscape. It remains a thoughtful resource for anyone curious about the beauty and logic of modern maths.
 
 <div style="clear: both;"></div>
 
