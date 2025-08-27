@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Cubic reasoning"
-  site-url: https://normansimonr.github.io/cubic_reasoning/
+  site-url: https://normansimonr.github.io/consultancy_website/
   description: "Thoughtful essays"
   sidebar:
     style: "docked"
