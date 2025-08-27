@@ -1,0 +1,152 @@
+/* COLOURS */
+
+:root {
+  --main-bg-color: #FFFFFF;
+  --secondary-bg-color: #fafafa;
+  --main-text-color: #313131;
+  --accent-color: #978f7d;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+/* TEXT */
+
+body {
+  background-color: var(--main-bg-color);
+  color: var(--main-text-color);
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9em;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+blockquote, .blockquote {
+  color: var(--main-text-color);
+}
+
+/* HEADINGS */
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--main-text-color);
+  font-family: 'Spectral', serif;
+}
+
+/* LINKS */
+
+a {
+  color: var(--accent-color);
+}
+
+a:hover {
+  color: var(--main-text-color);
+}
+
+
+/* BUTTONS */
+
+.btn-primary {
+    background-color: var(--accent-color);
+    border-color: var(--accent-color);
+}
+
+.btn-primary:hover {
+    background-color: var(--main-text-color);
+    border-color: var(--main-text-color);
+}
+
+/* FOOTER */
+
+.footer {
+  background-color: var(--main-bg-color);
+
+}
+
+/* HOME PAGE IMAGE */
+
+.featured-section {
+  background-size: cover;
+  background-position: center;
+  height: 45vh;
+  position: relative;
+  overflow: hidden;
+  border-radius: 6px;
+  box-shadow: 0 0 3px 3px white inset;
+}
+
+.featured-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.25);
+  z-index: 1;
+}
+
+/* NAVBAR */
+
+.navbar {
+  padding: 25px 25px;
+  position: relative;
+  background-color: var(--main-bg-color);
+}
+
+.navbar-logo {
+  max-height: 50px;
+}
+
+.navbar-brand {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+}
+
+
+
+/* POST LISTING */
+
+.listing-category {
+  font-family: 'Zain', sans-serif;
+  font-size: 1.0em !important;
+}
+
+.listing-author {
+  font-family: 'Zain', sans-serif;
+  font-size: 1.2em !important;
+}
+
+.listing-date {
+  font-family: 'Zain', sans-serif;
+  font-size: 1.2em !important;
+}
+
+
+/* POST TITLE BLOCK IN ACTUAL POST */
+
+.description {
+  font-family: 'Zain', sans-serif;
+  font-style: italic;
+  font-size: 1.4em !important;
+}
+
+.quarto-category {
+  font-family: 'Zain', sans-serif;
+  font-size: 1.0em !important;
+}
+
+.quarto-title-meta-contents {
+  font-family: 'Zain', sans-serif;
+  font-size: 1.1em !important;
+}
+
+.quarto-title-meta-heading {
+  font-family: 'Zain', sans-serif;
+  font-size: 1.1em !important;
+}
