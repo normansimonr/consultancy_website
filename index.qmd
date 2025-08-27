@@ -20,4 +20,4 @@ title-block-style: none
 
 This is the personal website of [Norman Simon Rodriguez](about.qmd).
 
-You may want to start by reading my [essays](posts.qmd) or the [list of my favourite books](my-favourite-books.qmd). Thanks for coming by! For inspiration, see [Archpsych](https://www.archpsych.co.uk/).
+You may want to start by reading my [essays](posts.qmd) or the [list of my favourite books](my-favourite-books.qmd). Thanks for coming by!
