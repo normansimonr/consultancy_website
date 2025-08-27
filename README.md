@@ -14,7 +14,7 @@ quarto publish gh-pages
 
 # Desaturating images
 
-All images in the website must be desaturated. In order to achieve this, I need to install ImageMagick:
+All images in the website must be desaturated. In order to achieve this, I need to install ImageMagick´:
 
 ´´´
 sudo apt install imagemagick
