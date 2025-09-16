@@ -1,8 +1,8 @@
 ---
 title: "The pursuit of wealth and the enjoyment of life"
 author: "Norman Simon Rodriguez"
-description: "Work isn’t just about profit or power—it’s dialogue, responsibility, and ethics, as Switzerland’s home-based model shows."
-date: "2025-08-24"
+description: "We traded prosperity for wealth. It's costing us the planet."
+#date: "2025-08-24"
 toc: true
 categories: [philosophy, economics]
 bibliography: references.bib
@@ -18,7 +18,7 @@ The very idea of *wealth* is therefore unusual. If people can live in comfort wi
 
 Following this logic, *poverty* can be understood as the lack of prosperity. If there is a moral imperative to reduce poverty, then its goal should be to ensure as many people as possible become prosperous, though not necessarily wealthy. Of course, the accumulation of wealth is just one of many ways people seek psychological fulfilment. Some find it in study, service, spirituality or their work—and for most, satisfaction comes from a combination of these and other pursuits. The danger arises when an individual, or an entire society, continues to pursue wealth long after achieving prosperity. While consumption and investment may stimulate economic activity that benefits those still in poverty, a society that crosses the threshold into mass wealth risks tying its collective sense of well-being to the endless pursuit of luxury. In other words, it risks becoming consumed by greed, a condition where not only the wealthy but also the prosperous and even the poor seek to maximize their possessions at any cost—not to live well, but simply to be rich.
 
-![A wealthy merchant of London (1588). [Source](https://commons.wikimedia.org/wiki/File:Habit_of_a_wealthy_merchant_of_London_in_1588._Riche_marchand_de_Londres_(NYPL_b14140320-1638225).jpg).](habit-of-a-wealthy-merchant-of-london-in-1588-riche-marchand-de-londres-2a3ad5.jpg){fig-align="center"}
+![A wealthy merchant of London (1588). [Source](https://commons.wikimedia.org/wiki/File:Habit_of_a_wealthy_merchant_of_London_in_1588._Riche_marchand_de_Londres_(NYPL_b14140320-1638225).jpg).](habit-of-a-wealthy-merchant-of-london-in-1588-riche-marchand-de-londres-2a3ad5.jpg){fig-align="center" width="427"}
 
 Beyond the social harms of a greedy society—where injustice is readily committed for personal gain—lies a more fundamental problem. The earth's ecosystem has finite resources and a limited capacity to regenerate. When human populations were small, greedy societies like ancient empires endangered their own civilizations but not necessarily the entire planet. Today, however, historic population growth combined with a global tendency to equate psychological satisfaction with material gain has led to a visible and dangerous environmental overload. Theorists like Boulding and Georgescu-Roegen (quoted in the epigraph above) warned of this in the twentieth century, and a growing chorus of scientists and activists has since joined them. The issue is psychological. Just as a desperately thirsty person might knowingly drink contaminated water to satisfy an urgent physical need, a person driven by greed can ignore clear and present dangers to satisfy that psychological compulsion. No amount of scientific evidence or moral reasoning will deter someone who has made the accumulation of wealth a basic psychological necessity. The root of the climate crisis, therefore, appears to be more moral than technical. The widespread refusal to protect the environment and challenge injustices committed in the name of wealth stems not from a failure to understand the evidence, but from a deep-seated unwillingness to accept its implications. To accept the science would mean renouncing what has become for many a primary life purpose: the pursuit of riches.
 
