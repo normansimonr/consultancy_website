@@ -3,7 +3,7 @@ title: "Essays"
 listing:
   contents: posts
   sort: "date desc"
-  type: grid
+  type: default
   categories: unnumbered
   sort-ui: false
   filter-ui: false

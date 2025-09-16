@@ -6,6 +6,7 @@ date: "2025-08-24"
 toc: true
 categories: [psychology]
 bibliography: references.bib
+draft: true
 ---
 
 Emotional intelligence (EI) is typically presented as a universal yardstick of emotional competence. According to the canonical definitions—self-awareness, empathy, regulation, and the ability to sustain positive relationships—it is assumed to measure how well one “does emotions.” Yet the concept is far from neutral. As several critics have noted, EI as usually described is deeply embedded in neurotypical norms \[Goleman, CITATION; Petrides, CITATION].
