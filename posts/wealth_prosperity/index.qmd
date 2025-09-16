@@ -2,7 +2,7 @@
 title: "The pursuit of wealth and the enjoyment of life"
 author: "Norman Simon Rodriguez"
 description: "We traded prosperity for wealth. It's costing us the planet."
-#date: "2025-08-24"
+date: last-modified
 toc: true
 categories: [philosophy, economics]
 bibliography: references.bib
