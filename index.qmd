@@ -1,22 +1,12 @@
 ---
 title: "&nbsp;"
-title-block-style: none
 ---
 
-```{=html}
-<style>
-.title {
-  font-size: 1px;
-}
-</style>
-```
-
-```{=html}
-<div class="featured-section" style="background-image: url('images/featured_background.jpg');">
+<div style="text-align: center;">
+<img src="images/featured_background.jpg" alt="Featured Image" width="50%">
 </div>
-```
 
-<br><br>
+<br>
 
 This is the personal website of [Norman Simon Rodriguez](about.qmd).
 
