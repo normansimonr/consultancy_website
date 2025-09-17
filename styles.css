@@ -16,10 +16,20 @@ html {
 
 /* LAYOUT */
 
-#quarto-content {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 1200px;
+@media (min-width: 768px) {
+  #quarto-content {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1250px;
+  }
+
+  .navbar-brand {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    align-items: center;
+  }
 }
 
 blockquote, .blockquote {
@@ -99,31 +109,29 @@ a:hover {
   max-height: 50px;
 }
 
-.navbar-brand {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  display: flex;
-  align-items: center;
-}
-
-
-
 /* POST LISTING */
 
 .listing-category {
   font-family: 'Zain', sans-serif;
-  font-size: 1.0em !important;
+  font-size: 0.8em !important;
+}
+
+.listing-title {
+  font-size: 1.2em !important;
+}
+
+.listing-description {
+  font-size: 0.9em !important;
 }
 
 .listing-author {
   font-family: 'Zain', sans-serif;
-  font-size: 1.2em !important;
+  font-size: 1.3em !important;
 }
 
 .listing-date {
   font-family: 'Zain', sans-serif;
-  font-size: 1.2em !important;
+  font-size: 1.0em !important;
 }
 
 
