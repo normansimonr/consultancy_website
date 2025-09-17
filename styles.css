@@ -24,7 +24,7 @@ html {
 
 blockquote, .blockquote {
   color: var(--main-text-color);
-  font-size: 0.85em;
+  font-size: 0.9em;
 }
 
 /* HEADINGS */

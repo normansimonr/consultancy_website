@@ -24,7 +24,7 @@ website:
       #  text: Subscribe
   navbar:
     style: docked
-    pinned: true
+    pinned: false
     border: false
     logo: images/Logo.png
     search: true
